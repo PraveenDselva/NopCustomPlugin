@@ -1,0 +1,9 @@
+﻿Group: Misc
+FriendlyName: Footwear
+SystemName: Misc.AddFootwear
+Version: 1.0
+SupportedVersions: 3.80
+Author: p.kumar@dselva.co.in
+DisplayOrder: 1
+FileName: Nop.Plugin.Misc.AddFootwear.dll
+Description: This plugin helps to upload parsed data
